@@ -1,2 +1,3 @@
-# projeto-dio-1
-Projeto Dio #1
+# Projeto Dio : Estudo de desenvolvimento de software :memo::computer:
+
+### Projeto dio #1
